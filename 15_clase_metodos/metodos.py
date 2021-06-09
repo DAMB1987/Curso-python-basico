@@ -11,7 +11,7 @@ nombre[0]  #indice, esto representa un indice para acceder a casa letra de mi no
 #   0,  1, 2,  3,  4
 #   d,  i, e,  g,  o
 
-len(nombre) #lenes una función, sirve para saber cuántos caracteres tiene mi cadena
+len(nombre) #len es una función, sirve para saber cuántos caracteres tiene mi cadena
 #Diego tiene 5 caracteres
 len(letra)  #arrojaria 1, ya que es una letra
 len("Hola! este es el curso de python") #tiene 32 caracteres
